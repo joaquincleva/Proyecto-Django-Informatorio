@@ -1,0 +1,9 @@
+Extends User Model
+
+-Procfile
+-Install gunicorn
+-whitenoise
+-runtime.txt
+-staticfiles
+-media
+-settings
